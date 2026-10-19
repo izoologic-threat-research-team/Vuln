@@ -1,7 +1,7 @@
 # Security Advisory: Unauthenticated Remote Code Execution (RCE) in Qibo CMS X1
 
 - **Advisory ID:** SEC-2026-QIBO-X1-01
-- **Discovery Date:** October 19, 2026
+- **Discovery Date:** October 14, 2026
 - **Severity:** Critical (CVSS v3.1 Score: 9.8 / 10.0)
 - **Vulnerability Type:** Remote Code Execution (RCE) / Improper Control of Generation of Code (`CWE-94`)
 - **Affected Product:** Qibo CMS X1 (`qibosoft X1.0`)
